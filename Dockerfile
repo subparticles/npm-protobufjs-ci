@@ -1,3 +1,3 @@
 FROM node:lts-alpine
 
-RUN apk --no-cache add git
+RUN apk --no-cache add git jq
