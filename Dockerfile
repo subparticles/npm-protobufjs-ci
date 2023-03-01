@@ -1,4 +1,4 @@
-FROM node:8.14.2-alpine
+FROM node:18.14.2-alpine
 
 RUN apk --no-cache add git jq
 
